@@ -18,7 +18,7 @@ app.use('/api/folders', foldersRouter)
 app.use('/api/notes', notesRouter)
 
 app.get('/', (req, res) => {
-  res.send('Ready to rock and roll!');
+  res.send('Welcome World!');
 });
 
 const morganOption = (NODE_ENV === 'production') ? 'tiny' : 'common';
