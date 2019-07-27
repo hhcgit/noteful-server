@@ -1,4 +1,4 @@
-const whitelist = ['http://localhost:8000', 'http://localhost:3000'];
+const whitelist = ['https://my-react-app.harrisonhuaruichen.now.sh', 'http://localhost:3000'];
 
 const corsOptions = {
       origin: function (origin, callback) {
