@@ -21,7 +21,7 @@
     "express": "^4.16.4",
     "express-router": "0.0.1",
     "helmet": "^3.16.0",
-    "knex": "^0.17.6",
+    "knex": "^2.4.0",
     "morgan": "^1.9.1",
     "winston": "^3.2.1",
     "xss": "^1.0.6",
